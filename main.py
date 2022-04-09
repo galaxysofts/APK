@@ -4,5 +4,8 @@ from kivymd.uix.label import MDLabel
 
 class App(MDApp):
     def build(self):
-        return MDLabel(text="Hello, World", halign="center")
+        return MDLabel(text="Пошел нахуй", halign="center")
+
+
+
 App().run()
